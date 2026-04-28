@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm an Economist and Data Scientist with 5+ years of experience applying data analysis, machine learning, and business intelligence to real-world problems in financial compliance, tax policy, and trade economics.
 
@@ -16,7 +16,7 @@ Currently working as **Data Specialist** at a securities broker (Puesto de Bolsa
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Area | Tools |
 |------|-------|
@@ -40,13 +40,15 @@ Interactive BI dashboards for regulatory compliance monitoring at a Dominican se
 
 ---
 
-### 02 · Investment Portfolio Dashboard
-> **Looker Studio · Power BI · Python · Finance**
+### 02 · Compliance Training Game
+> ** Game Development · Compliance · Financial Risk**
 
-Financial analytics solution for portfolio tracking and investment decision-making.
-- Portfolio performance visualization, average invested amount, historical variation
-- Automatic comparison between financial products to support strategic decisions
-- Structured data model ensuring report consistency and traceability
+Developed an interactive educational video game designed to train financial executives on client approval and compliance decision-making.
+
+- Simulates real-world compliance scenarios for client onboarding and approval
+- Helps users identify high-risk clients and make informed decisions
+- Designed game logic to reflect financial regulations and risk assessment processes
+- Focused on user engagement, decision-making, and practical learning
 
 ---
 
