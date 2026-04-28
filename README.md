@@ -2,7 +2,7 @@
 
 **Economist · Data Scientist · Compliance Data Specialist**
 
-📍 Santo Domingo, Dominican Republic &nbsp;|&nbsp; 📧 alexisgop@kdis.ac.kr &nbsp;|&nbsp; [[LinkedIn](https://www.linkedin.com/in/alexis-enmanuel-g%C3%B3mez-1340b4173/)](https://www.linkedin.com/in/alexis-g%C3%B3mez-1340b4173/)
+📍 Santo Domingo, Dominican Republic &nbsp;|&nbsp; 📧 alexisgop@kdis.ac.kr &nbsp;|&nbsp; [(https://www.linkedin.com/in/alexis-enmanuel-g%C3%B3mez-1340b4173/)](https://www.linkedin.com/in/alexis-g%C3%B3mez-1340b4173/)]
 
 ---
 
